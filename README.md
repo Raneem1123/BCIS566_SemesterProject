@@ -1,6 +1,9 @@
 # BCIS566_SemesterProject
 #California Housing Price Prediction
 
+Google Colab Link
+https://colab.research.google.com/drive/1tLJa3NejCIUfwlK6YlHPOod4RsdIG5Og?usp=sharing
+
 This project applies machine learning techniques to predict housing prices in California using the Housing dataset. This project includes exploratory data analysis (EDA), preprocessing, model training, evaluation, and visualization using Python.
 
 Two regression models were used and compared:
